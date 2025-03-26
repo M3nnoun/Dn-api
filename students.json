@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Abdelfatah Mennoun",
+        "email": "admin@mennoun.me",
+        "username": "m3nnoun",
+        "password": "admin",
+        "marks": {
+            "acp": 12,
+            "maths": 14,
+            "python": 15,
+            "statistics": 19,
+            "physics": 16,
+            "java": 36.0,
+            "Math": 12.0,
+            "R": 18.0
+        }
+    }
+]
